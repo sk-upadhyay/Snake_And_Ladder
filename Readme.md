@@ -52,11 +52,11 @@ python snakes_and_ladders.py
 ## 🖼️ Visual Elements
 
 ### 🎨 Game Board
-![Game Board](Assingnment%208/board_image.png)
+![Game Board](board_image.png)
 The board follows a standard 10x10 grid with numbered positions.
 
 ### 🎭 Player Avatar
-![Player Token](Assingnment%208/player_avatar.png)
+![Player Token](player_avatar.png)
 This is the player's token that moves across the board.
 
 ### 🔊 Sound Effects
